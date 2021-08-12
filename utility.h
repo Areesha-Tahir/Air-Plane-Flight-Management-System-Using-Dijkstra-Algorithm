@@ -2,10 +2,10 @@
 
 				Group Members:
 				Aleezeh Usman 18i-0529
-				Laiba Imran   18i-0477
 				Areesha Tahir 18i-1655
+				Laiba Imran   18i-0477
 
-				DS FINAL PROJECT : AIRLINE RESERVATION SYSTEM
+				DATA STRUCTURES FINAL PROJECT : AIRLINE RESERVATION SYSTEM
 				Submission Date: 5-11-19
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
